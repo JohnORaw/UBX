@@ -1,0 +1,1 @@
+This directory holds UBX logfiles from the heqding sensor
